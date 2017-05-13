@@ -1,11 +1,11 @@
 -outline of the presentation
 
--general idea / Motivation(with a graphic illustration)
-	-(UML- Use Case diagram)
+-general idea / motivation (with a graphic illustration)
+	-(UML Use Case diagram)
 
 	
 -hardware components 
--system architecture : UML deployment diagram 
+-system architecture : UML Deployment Diagram 
 -project parts (+ general idea of how we will go about solving these problems)
 	-communication(node to AWS) 
 	-communication (node to node)
@@ -16,6 +16,6 @@
 -(software architecture considerations)
 -...?
 
--distribuion of tasks (for implementation each person has their task, rest (documenation, etc.) is for everyone)
+-distribution of tasks (for implementation each person has their task, rest (documentation, etc.) is for everyone)
 	if a task turns out to be too easy to implement, the person that did it can help out with the other stuff
 -timeline of the project

@@ -6,7 +6,7 @@
 	
 -hardware components 
 -system architecture : UML deployment diagram 
--project parts
+-project parts (+ general idea of how we will go about solving these problems)
 	-communication(node to AWS) 
 	-communication (node to node)
 	-routing
